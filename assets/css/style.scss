@@ -63,7 +63,7 @@
   }
 
   p {
-    color: #B2B2B2;
+    color: #333;
     font-size: 16px;
     font-weight: 500;
     line-height: 40px;
@@ -319,6 +319,7 @@ header {
 
   .box {
     width: 100%;
+    height: 100%;
     padding: 40px 30px;
     position: relative;
     z-index: 9;
@@ -371,7 +372,7 @@ header {
       }
 
       p {
-        color: #B2B2B2;
+        color: #222;
         font-size: 16px;
         font-weight: 500;
         line-height: 25px;
@@ -1001,6 +1002,30 @@ footer {
       }
     }
   }
+}
+
+
+.fixed-icon {
+  width: 50px;
+  height: 50px;
+  position: fixed;
+  bottom: 10px;
+  left: 10px;
+  border-radius: 50%;
+  z-index: 99;
+  background: linear-gradient(90deg, #00A79D, #92278F);
+  display: flex;
+  align-items: center;
+  align-content: center;
+  justify-content: center;
+
+  img {
+    width: 30px;
+    height: 30px;
+    object-fit: contain;
+    filter: invert(100%) sepia(0%) saturate(7484%) hue-rotate(234deg) brightness(108%) contrast(103%);
+  }
+
 }
 
 @import 'media';
