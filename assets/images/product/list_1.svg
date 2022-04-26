@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Group_128" data-name="Group 128" transform="translate(-764 -3119)">
+    <g id="shapes_bulk" data-name="shapes/bulk" transform="translate(764 3119)">
+      <g id="vuesax_bulk_shapes" data-name="vuesax/bulk/shapes">
+        <g id="shapes">
+          <path id="Vector" d="M9.75,0H5A5,5,0,0,0,0,5v5a5,5,0,0,0,5,5h5a5,5,0,0,0,5-5V5.25A5.249,5.249,0,0,0,9.75,0Z" transform="translate(2 7)" fill="#00a79d" opacity="0.4"/>
+          <path id="Vector-2" data-name="Vector" d="M5.47,0A5.493,5.493,0,0,0,0,5H.72a5.249,5.249,0,0,1,5.25,5.25v.72A5.5,5.5,0,0,0,5.47,0Z" transform="translate(11.03 2)" fill="#00a79d"/>
+          <path id="Vector-3" data-name="Vector" d="M0,0H24V24H0Z" fill="none" opacity="0"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Group_168" data-name="Group 168" transform="translate(-1225 -2937)">
+    <g id="cloud-add_bulk" data-name="cloud-add/bulk" transform="translate(1225 2937)">
+      <g id="vuesax_bulk_cloud-add" data-name="vuesax/bulk/cloud-add">
+        <g id="cloud-add">
+          <path id="Vector" d="M0,0H24V24H0Z" fill="none" opacity="0"/>
+          <path id="Vector-2" data-name="Vector" d="M18.24,14.72a5.335,5.335,0,0,1-3.64,1.4h-.09a4.715,4.715,0,0,0,.46-2.06,5,5,0,0,0-10,0,4.715,4.715,0,0,0,.46,2.06H3.51a3.742,3.742,0,0,1,0-7.47h.05C.35-.28,13.89-3.85,15.44,5.53A5.359,5.359,0,0,1,18.24,14.72Z" transform="translate(2.03 2.47)" fill="#00a79d" opacity="0.4"/>
+          <path id="Vector-3" data-name="Vector" d="M5,0A5,5,0,0,0,0,5,4.715,4.715,0,0,0,.46,7.06a4.11,4.11,0,0,0,.27.51,4.967,4.967,0,0,0,8.54,0,4.11,4.11,0,0,0,.27-.51A4.715,4.715,0,0,0,10,5,5,5,0,0,0,5,0ZM7.07,4.57,4.94,6.54a.763.763,0,0,1-.51.2.742.742,0,0,1-.53-.22l-.99-.99A.75.75,0,0,1,3.97,4.47l.48.48,1.6-1.48a.75.75,0,0,1,1.02,1.1Z" transform="translate(7 11.53)" fill="#00a79d"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Group_172" data-name="Group 172" transform="translate(-1244 -2995)">
+    <g id="simcard_bulk" data-name="simcard/bulk" transform="translate(1244 2995)">
+      <g id="vuesax_bulk_simcard" data-name="vuesax/bulk/simcard">
+        <g id="simcard">
+          <path id="Vector" d="M16.54,4.54,13.47,1.47A5,5,0,0,0,9.93,0H5A4.724,4.724,0,0,0,0,5V15a4.724,4.724,0,0,0,5,5h8a4.724,4.724,0,0,0,5-5V8.07A5,5,0,0,0,16.54,4.54Z" transform="translate(3 2)" fill="#00a79d" opacity="0.4"/>
+          <path id="Vector-2" data-name="Vector" d="M4.5,3.75V0H3A3.009,3.009,0,0,0,0,3V4H4.25A.248.248,0,0,0,4.5,3.75Z" transform="translate(7 9.5)" fill="#00a79d"/>
+          <path id="Vector-3" data-name="Vector" d="M.25,4H4.5V3a3.009,3.009,0,0,0-3-3H0V3.75A.248.248,0,0,0,.25,4Z" transform="translate(12.5 9.5)" fill="#00a79d"/>
+          <path id="Vector-4" data-name="Vector" d="M4.25,0H0V1A3.009,3.009,0,0,0,3,4H4.5V.25A.248.248,0,0,0,4.25,0Z" transform="translate(7 14.5)" fill="#00a79d"/>
+          <path id="Vector-5" data-name="Vector" d="M0,.25V4H1.5a3.009,3.009,0,0,0,3-3V0H.25A.248.248,0,0,0,0,.25Z" transform="translate(12.5 14.5)" fill="#00a79d"/>
+          <path id="Vector-6" data-name="Vector" d="M0,0H24V24H0Z" fill="none" opacity="0"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

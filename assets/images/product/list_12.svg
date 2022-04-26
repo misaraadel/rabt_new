@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Group_160" data-name="Group 160" transform="translate(-1028 -2805)">
+    <g id="bookmark_bulk" data-name="bookmark/bulk" transform="translate(1028 2805)">
+      <g id="vuesax_bulk_bookmark" data-name="vuesax/bulk/bookmark">
+        <g id="bookmark">
+          <path id="Vector" d="M14.19,0H5.82C2.17,0,0,2.17,0,5.81v8.37c0,3.64,2.17,5.81,5.81,5.81h8.37c3.64,0,5.81-2.17,5.81-5.81V5.81C20,2.17,17.83,0,14.19,0Z" transform="translate(2 2)" fill="#00a79d" opacity="0.4"/>
+          <path id="Intersect" d="M14.25,13.47l-1.319-.79a1.974,1.974,0,0,0-1.86,0l-1.32.79a1.567,1.567,0,0,1-1.48.26,1.46,1.46,0,0,1-.52-1.31V2h8.5V12.42a1.462,1.462,0,0,1-.52,1.31.8.8,0,0,1-.412.1A2.184,2.184,0,0,1,14.25,13.47Z" fill="#00a79d"/>
+          <path id="Vector-2" data-name="Vector" d="M0,0H24V24H0Z" fill="none" opacity="0"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
