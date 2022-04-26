@@ -93,7 +93,7 @@
                 </p>
 
                 <div class="button-contain">
-                  <a href="#contact" class="custom-btn">
+                  <a href="#" class="custom-btn" data-toggle="modal" data-target="#exampleModal">
                     طلب نسخة
                   </a>
                 </div>
@@ -485,7 +485,7 @@
                   </ul>
 
                   <div class="button-contain">
-                    <a href="#contact" class="custom-btn">
+                    <a href="#" class="custom-btn" data-toggle="modal" data-target="#exampleModal">
                       طلب عرض سعر
                     </a>
                   </div>
@@ -581,7 +581,7 @@
                   </ul>
 
                   <div class="button-contain">
-                    <a href="#contact" class="custom-btn">
+                    <a href="#" class="custom-btn" data-toggle="modal" data-target="#exampleModal">
                       طلب عرض سعر
                     </a>
                   </div>
@@ -653,7 +653,7 @@
                   </ul>
 
                   <div class="button-contain">
-                    <a href="#contact" class="custom-btn">
+                    <a href="#" class="custom-btn" data-toggle="modal" data-target="#exampleModal">
                       طلب عرض سعر
                     </a>
                   </div>
@@ -878,6 +878,87 @@
       </div>
     </footer>
 
+    <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="modal-body">
+            <form class="form-contain">
+              <label for="">
+                اسمك
+              </label>
+
+              <div class="form-group">
+                <img src="assets/images/contact/user.svg" alt="">
+
+                <input type="text" class="form-control" placeholder=" الاسم" />
+              </div>
+
+              <label for="">
+                رقم الجوال
+              </label>
+              
+              <div class="form-group">
+                <img src="assets/images/contact/form_mobile.svg" alt="">
+
+                <input type="text" class="form-control" placeholder=" رقم الجوال" />
+              </div>
+
+              <label for="">
+                البريد الالكتروني
+              </label>
+              
+              <div class="form-group">
+                <img src="assets/images/contact/sms.svg" alt="">
+
+                <input type="text" class="form-control" placeholder="البريد الالكتروني" />
+              </div>
+
+              <label for="">
+                الموضوع
+              </label>
+              
+              <div class="form-group">
+                <img src="assets/images/contact/form_cat.svg" alt="">
+
+                <select class="form-control">
+                  <option value="">
+                    ربط فاتورة 
+                  </option>
+
+                  <option value="">
+                    نقاط البيع 
+                  </option>
+
+                  <option value="">
+                    البرامج الادارية
+                  </option>
+
+                  <option value="">
+                    اخرى
+                  </option>
+                </select>
+              </div>
+
+              <label for="">
+                ملاحظات
+              </label>
+              
+              <div class="form-group textarea">
+                <img src="assets/images/contact/pen.svg" alt="">
+
+                <textarea class="form-control" placeholder=" ... اكتب رسالتك"  cols="30" rows="10"></textarea>
+              </div>
+
+              <div class="button-contain">
+                <a href="#" class="custom-btn">
+                  ارسال رسالة
+                </a>
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+    </div>
 
     <a href="#" class="fixed-icon">
       <img src="assets/images/footer/whatsapp.svg" alt="">
